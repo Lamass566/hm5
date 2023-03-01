@@ -1,5 +1,12 @@
+body{
+    margin: 0 auto;
+}
+
 .logo{
-    position: absolute;
+    
+    margin-top: 37px;
+    margin-left: 221px;
+    height: 33px;
     width: 216px;
     height: 33px;
     left: 230px;
@@ -7,6 +14,8 @@
 }
 
 .back-call{
+    margin-top: -69px;
+    margin-left: -4px;
     z-index: 1;
     position: relative;
 
@@ -29,15 +38,16 @@
 }
 
 .back-call-img{
-    position: absolute;
+    margin-top: 54px;
+    margin-left: 1098px;
     left: 1093px;
     top: 54px;
 }
 
 .rec{
-    box-sizing: border-box;
 
-    position: absolute;
+    margin-top: -36px;
+    margin-left: 1065px;
     width: 218px;
     height: 50px;
     left: 1070px;
@@ -47,7 +57,8 @@
 }
 
 .main-text-s1{
-    position: absolute;
+    margin-top: 90px;
+    margin-left: 230px;
     width: 599px;
     height: 28px;
     left: 230px;
@@ -63,7 +74,8 @@
 }
 
 .text-s1{
-    position: absolute;
+    margin-top: 44px;
+    margin-left: 230px;
     width: 815px;
     height: 56px;
     left: 230px;
@@ -92,12 +104,13 @@
   }
 
 .item1, .item2, .item3{
-    position: absolute;
     width: 260px;
     height: 230px;
 }
 
 .item1{
+    margin-top: 47px;
+    margin-left: 230px;
     left: 230px;
     top: 373px;
     
@@ -105,21 +118,20 @@
 }
 
 .item2{
-    left: 591px;
-    top: 373px;
-
+    margin-top: 47px;
+    margin-left: -6px;
     background: #B4A385;
 }
 
 .item3{
-    left: 953px;
-    top: 373px;
+    margin-top: -334px;
+    margin-left: 593px;
 
     background: #E4B564;
 }
 
 .item4, .item5{
-    position: absolute;
+    
     width: 440px;
     height: 230px;
 
@@ -127,15 +139,15 @@
 }
 
 .item4{
-    left: 230px;
-    top: 699px;
+    margin-top: -3px;
+    margin-left: -186px;
 
     background: #635A4A;
 }
 
 .item5{
-    left: 772px;
-    top: 699px;
+    margin-top: -385px;
+    margin-left: 231px;
 
     background: #B08C4D;
 }
@@ -189,7 +201,8 @@
 }
 
 .main-text-s2{
-    position: absolute;
+    margin-top: -249px;
+    margin-left: 225px;
     width: 836px;
     height: 13px;
     left: 230px;
@@ -217,7 +230,8 @@
 }
 
 .item1-1{
-    position: absolute;
+    margin-top: 84px;
+    margin-left: 231px;
     width: 260px;
     height: 174px;
     left: 230px;
@@ -226,7 +240,8 @@
 }
 
 .item2-2{
-    position: absolute;
+    margin-top: 359px;
+    margin-left: -525px;
     width: 260px;
     height: 420px;
     left: 230px;
@@ -249,7 +264,8 @@
 }
 
 .item3-3{
-    position: absolute;
+    margin-top: -770px;
+    margin-left: 586px;
     width: 260px;
     height: 340px;
     left: 586px;
@@ -261,7 +277,8 @@
 
 .item4-4{
     
-    position: absolute;
+    margin-top: -333px;
+    margin-left: -363px;
     width: 258px;
     height: 257px;
     left: 588px;
@@ -284,7 +301,8 @@
 }
 
 .item5-5{
-    position: absolute;
+    margin-top: -768px;
+    margin-left: 943px;
     width: 344px;
     height: 255px;
     left: 944px;
@@ -294,7 +312,8 @@
 }
 
 .item6-6{
-    position: absolute;
+    margin-top: 22px;
+    margin-left: 944px;
     width: 344px;
     height: 271px;
     left: 944px;
@@ -304,7 +323,8 @@
 }
 
 .item7-7{
-    position: absolute;
+    margin-top: 22px;
+    margin-left: 944px;
     width: 344px;
     height: 198px;
     left: 945px;
@@ -441,7 +461,8 @@
 }
 
 .main-text3{
-    position: absolute;
+    margin-top: 127px;
+    margin-left: 227px;
     width: 597px;
     height: 28px;
     left: 228px;
@@ -474,7 +495,8 @@
 }
 
 .item8{
-    position: absolute;
+    margin-top: 63px;
+    margin-left: 228px;
     width: 279px;
     height: 230px;
     left: 228px;
@@ -485,7 +507,9 @@
 
 .item9{
     padding: 0%;
-    position: absolute;
+    margin-top: 63px;
+    margin-left: -30px;
+    
     width: 354px;
     height: 305px;
     left: 581px;
@@ -495,7 +519,8 @@
 }
 
 .item10{
-    position: absolute;
+    margin-top: 63px;
+    margin-left: -126px;
     width: 279px;
     height: 230px;
     left: 935px;
@@ -505,7 +530,8 @@
 }
 
 .item11{
-    position: absolute;
+    margin-top: -30px;
+    margin-left: 228px;
     width: 279px;
     height: 230px;
     left: 228px;
@@ -515,7 +541,8 @@
 }
 
 .item12{
-    position: absolute;
+    margin-top: -30px;
+    margin-left: -30px;
     width: 279px;
     height: 230px;
     left: 581px;
@@ -525,7 +552,8 @@
 }
 
 .item13{
-    position: absolute;
+    margin-top: -30px;
+    margin-left: -126px;
     width: 279px;
     height: 230px;
     left: 935px;
@@ -567,7 +595,7 @@ top: 3541.19px;
 }
 
 .img2-1{
-    position: absolute;
+    
     width: 62px;
     height: 55px;
     left: 163px;
@@ -578,12 +606,13 @@ top: 3541.19px;
     position: absolute;
     width: 139px;
 height: 55px;
-left: 116px;
-top: 76px;
+left: 684px;
+top: 276px;
 }
 
 .text-item9{
-    position: absolute;
+    padding-top: 55px;
+    padding-left: 42px;
     width: 270px;
     height: 140px;
     left: 54px;
@@ -606,7 +635,8 @@ top: 76px;
 
 .button{
     box-sizing: border-box;
-    position: absolute;
+    margin-top: -1201px;
+    margin-left: 1107px;
     width: 180px;
     height: 50px;
     left: 1108px;
